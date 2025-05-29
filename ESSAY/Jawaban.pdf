@@ -1,0 +1,67 @@
+1. Menurut saya Sturuktur Data adalah Metode untuk Menyimpan dan juga mengatur data dalam komputer agar dapat digunakan secara efektif
+2. Ada banyak kegunaan sturktur data yaitu 
+    A. Penyimpan dan Pengelolaan Data Yang Efisien
+        memungkinkan data yang disimpan secara terorganisir sehingga mudah diakses.
+    
+    B. Meningkatkan Performa Algoritma
+        Pemilihan yang tepat dapat mengurangi waktu eksekusi program.
+    
+    C. Mendukung Desain dan Implemmentasi Algoritma
+        - Stack yang digunakan dalam algoritma    rekursi dan ekspresi matematika.
+
+        - Queue yang digunakan dalam penjadwalan tugas atau antria proses.
+
+        - Graph digunakan dalam algoritma pencarian jalur. misalnya,Dijkstra, BFS,DFS.
+
+    D. Pemrosesan Data Kompleks
+        ada true dan graph
+        - tree yaitu untuk sistem file,ekspresi matematika, dan struktur organisasi.
+        - graph yaitu untuk pemetaan jaringan, rute transportasi, atau hubungan sosial.
+
+    E. Mendukung Fitur Aplikasi Nyata
+
+    F. Penghematan Memori
+        dapat mengunakan Memori dengan efisien.
+
+3. Jenis-jenis struktur data
+    A. Array
+        Array adalah sturktur data yang meyimpan sejumlah elemen dengan tipe yang sama secara berurutan dalam memorii, sehingga dapat memudahkan akses berdasarkan indeks.
+    
+    B. Linked List
+        Linked List adalah susunan elemen yang saling terhubung satu sama lain melalui refrensi atau pointer, cocok untuk data yang sering dimodifikasi.
+
+    C. Queue
+        Queue yaitu bekerja dengan layaknya antrian, dimana data pertama yang dimasukan adalah yang pertama diproses.
+    
+    D. Tree
+        Tree adalah struktur berjenjang yang menyerupai pohon, digunakan untuk mempresentasikan hubungan hierarkis, seperti struktur organisasi atau sistem file.
+
+    E. Graph
+        Graph adalah sturktur data yang menggambarkan reklasi antar objek atau simpul melalui koneksi atau sisi, cocok untuk jaringan sosial, peta jalan, dll.
+
+    F. Hash Table 
+        Hash Table adalag metode penyimpanan data yang memungkinkan akses langsung ke nilai melali kunci unik, ini sangat efisien untuk pencarian data.
+
+4. Array adalah sturktur data yang meyimpan sejumlah elemen dengan tipe yang sama secara berurutan dalam memorii, sehingga dapat memudahkan akses berdasarkan indeks.
+
+Kegunaan array adalah : 
+    - menyimpan banyak data secara terstruktur
+    - akses data yang cepat.
+    - digunakan di struktur data dan algoritma lain.
+    - membantu dalam pemrosesan data massal.
+    - menggunakn memori secara efisien.
+    - digunakan dalam looping dan juga literasi
+
+5. Berikut ini adalah contoh array:
+
+    nilai : [66, 77, 45, 88, 50, 59]
+    print(nilai[0])
+
+    outputnya adalah angka pertama yaitu: 66
+
+6. salah satu dari contoh struktur data 
+    nilai : [66, 77, 45, 88, 50, 59]
+    print(nilai[0])
+
+
+
